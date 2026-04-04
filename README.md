@@ -28,15 +28,15 @@ currently_building:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,htmx,tailwind,bash&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,htmx,tailwind,alpinejs&theme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,scikitlearn&theme=dark" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,scikitlearn,postgres,bots&theme=dark" alt="Frameworks"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,github&theme=dark" alt="Infrastructure"/>
+  <img src="https://skillicons.dev/icons?i=bash,supabase,github,selenium&theme=dark" alt="Infrastructure"/>
 </p>
 
 
