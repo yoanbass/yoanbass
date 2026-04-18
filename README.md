@@ -14,14 +14,14 @@ currently_building:
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoanbass&show_icons=true&hide_border=true&bg_color=110933&title_color=01E887&icon_color=01E887&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=yoanbass&hide_border=true&background=110933&stroke=343350&ring=01E887&fire=0DB663&currStreakLabel=01E887&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8086A6" alt="GitHub Streak"/> </p>
+<p align="center"> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yoanbass&show_icons=true&hide_border=true&bg_color=161a34&title_color=01E887&icon_color=01E887&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/> <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=yoanbass&hide_border=true&background=161a34&stroke=343350&ring=01E887&fire=0DB663&currStreakLabel=01E887&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8086A6" alt="GitHub Streak"/> </p>
 
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanbass&bg_color=110933&color=8086A6&line=01E887&point=FFFFFF&area=true&area_color=01E887&hide_border=true" alt="Contribution Graph"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanbass&bg_color=161a34&color=8086A6&line=01E887&point=FFFFFF&area=true&area_color=01E887&hide_border=true" alt="Contribution Graph"/> </p>
 
 ---
 
