@@ -10,7 +10,6 @@ currently_building:
 ```
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yoanbass)](https://git.io/streak-stats)
 
 ## 📊 GitHub Stats
 
