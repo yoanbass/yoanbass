@@ -11,7 +11,7 @@ currently_building:
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yoanbass&theme=vue-dark&hide_border=true)](https://streak-stats.demolab.com/demo/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoanbass&theme=vue-dark&hide_border=true&v=2)](https://streak-stats.demolab.com/demo/)
 
 ## 🛠️ Tech Stack
 
