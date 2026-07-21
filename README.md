@@ -9,17 +9,9 @@ currently_building:
 
 ```
 
----
-
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yoanbass)](https://git.io/streak-stats)
----
 
-## 📈 Contribution Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanbass&bg_color=161a34&color=8086A6&line=01E887&point=FFFFFF&area=true&area_color=01E887&hide_border=true" alt="Contribution Graph"/> </p>
-
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoanbass&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tech Stack
 
@@ -35,8 +27,6 @@ currently_building:
   <img src="https://skillicons.dev/icons?i=bash,htmx,supabase,github&theme=dark" alt="Infrastructure"/>
 </p>
 
-
----
 
 ## 🎯 What I'm Up To
 
@@ -55,7 +45,6 @@ currently_building:
   </tr>
 </table>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoan-bassinet/">
