@@ -3,10 +3,6 @@
 ```yaml
 name: Yoan Bassinet
 location: Paris, France
-
-currently_building:
-  - A CRM AI Agent
-
 ```
 
 ## 📊 GitHub Stats
